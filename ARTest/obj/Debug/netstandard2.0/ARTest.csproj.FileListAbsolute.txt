@@ -1,0 +1,15 @@
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\bin\Debug\netstandard2.0\ARTest.deps.json
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\bin\Debug\netstandard2.0\ARTest.dll
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\bin\Debug\netstandard2.0\ref\ARTest.dll
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\bin\Debug\netstandard2.0\ARTest.pdb
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\ARTest.csproj.AssemblyReference.cache
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\ARTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\ARTest.AssemblyInfoInputs.cache
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\ARTest.AssemblyInfo.cs
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\ARTest.csproj.CoreCompileInputs.cache
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\ARTest.dll
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\refint\ARTest.dll
+C:\Users\Saurav.Kumar\source\repos\ARTest\ARTest\obj\Debug\netstandard2.0\ARTest.pdb
